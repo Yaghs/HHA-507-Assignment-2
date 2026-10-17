@@ -1,0 +1,1 @@
+ALTER TABLE SEALS ADD Notes Varchar(200)
